@@ -6,3 +6,4 @@ Ensure that Java is installed on your computer.
 Run the program in the terminal or command prompt.
 The program will prompt you to enter a number.
 You will then see if the entered number is prime or not.
+kdckkdsfkk
